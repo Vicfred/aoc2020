@@ -1,0 +1,11 @@
+# ignore all
+*
+
+# except nim files
+!*.nim
+
+# don't ignore gitignore
+!.gitignore
+
+# license
+!LICENSE
